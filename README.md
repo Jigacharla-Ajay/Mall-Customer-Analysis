@@ -21,7 +21,7 @@ A machine learning web application that segments mall customers into behavioral 
 
 | Home Page | Prediction Result |
 |-----------|------------------|
-| ![Home Page](assets/home.png) | ![Prediction](assets/prediction.png) |
+| ![Home Page](assets/home.png) | ![Prediction](assets/predictions.png) |
 
 ---
 
@@ -130,4 +130,4 @@ The app was deployed on an **AWS EC2 t2.micro instance** (Ubuntu 22.04):
 ## 👤 Author
 
 **Jigacharla Ajay**  
-[LinkedIn](https://linkedin.com/in/your-profile) • [GitHub](https://github.com/your-username) • [LeetCode](https://leetcode.com/your-profile)
+[LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/jigacharla-ajay-71ba1834b/)) • [GitHub]([https://github.com/your-username](https://github.com/Jigacharla-Ajay)) • [LeetCode]([https://leetcode.com/your-profile](https://leetcode.com/u/Jigacharla_Ajay/)
